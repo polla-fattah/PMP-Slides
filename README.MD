@@ -30,7 +30,7 @@ Here’s an overview of the lecture titles included in this series:
 9. **Delivery and Measurement Performance Domains**
 10. **Uncertainty and Tailoring Performance Domains**
 11. **Tools, Techniques, and Final Exam Preparation**
-12. 
+
 ---
 
 ## Using Marp for Presentation Compilation
