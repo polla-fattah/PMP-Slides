@@ -15,6 +15,22 @@ This is a series of lectures on project management principles, methods, and tool
 
 Each lecture is presented in Markdown format and is compiled into slides using Marp, a Markdown Presentation Ecosystem. Below, you’ll find a guide to setting up Marp, using it to compile the lectures, and enhancing presentations with themes, styles, and images.
 
+## Lecture Titles List
+
+Here’s an overview of the lecture titles included in this series:
+
+1. **Introduction to Project Management & The PMP Exam**
+2. **The System for Value Delivery**
+3. **Project Management Principles – Part 1**
+4. **Project Management Principles – Part 2**
+5. **Project Management Principles – Part 3**
+6. **Stakeholder and Team Performance Domains**
+7. **Development Approach and Life Cycle Performance Domain**
+8. **Planning and Project Work Performance Domains**
+9. **Delivery and Measurement Performance Domains**
+10. **Uncertainty and Tailoring Performance Domains**
+11. **Tools, Techniques, and Final Exam Preparation**
+12. 
 ---
 
 ## Using Marp for Presentation Compilation
